@@ -1,0 +1,6 @@
+framework module UILayoutSugar {
+  umbrella header "UILayoutSugar-umbrella.h"
+
+  export *
+  module * { export * }
+}
