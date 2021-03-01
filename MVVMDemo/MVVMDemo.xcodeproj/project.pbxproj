@@ -25,6 +25,7 @@
 		F197C84425ECB418007DE44F /* MVCTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F197C84225ECB418007DE44F /* MVCTableViewCell.swift */; };
 		F197C84A25ECB5B9007DE44F /* MVCTableViewHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = F197C84825ECB5B9007DE44F /* MVCTableViewHeaderView.xib */; };
 		F197C84B25ECB5B9007DE44F /* MVCTableViewHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F197C84925ECB5B9007DE44F /* MVCTableViewHeaderView.swift */; };
+		F197C86325ECD7C5007DE44F /* HeaderViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F197C86225ECD7C5007DE44F /* HeaderViewContainer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,7 @@
 		F197C84225ECB418007DE44F /* MVCTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MVCTableViewCell.swift; sourceTree = "<group>"; };
 		F197C84825ECB5B9007DE44F /* MVCTableViewHeaderView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MVCTableViewHeaderView.xib; sourceTree = "<group>"; };
 		F197C84925ECB5B9007DE44F /* MVCTableViewHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MVCTableViewHeaderView.swift; sourceTree = "<group>"; };
+		F197C86225ECD7C5007DE44F /* HeaderViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderViewContainer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -209,6 +211,7 @@
 				F197C84825ECB5B9007DE44F /* MVCTableViewHeaderView.xib */,
 				F197C84225ECB418007DE44F /* MVCTableViewCell.swift */,
 				F197C84125ECB418007DE44F /* MVCTableViewCell.xib */,
+				F197C86225ECD7C5007DE44F /* HeaderViewContainer.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -457,6 +460,7 @@
 				F197C7C625EC9815007DE44F /* AppDelegate.swift in Sources */,
 				F197C84425ECB418007DE44F /* MVCTableViewCell.swift in Sources */,
 				F197C80825ECAE71007DE44F /* User.swift in Sources */,
+				F197C86325ECD7C5007DE44F /* HeaderViewContainer.swift in Sources */,
 				F197C81925ECB0B5007DE44F /* UserRepo.swift in Sources */,
 				F197C83425ECB2B8007DE44F /* ViewModel.swift in Sources */,
 				F197C83C25ECB2E7007DE44F /* ProjectRepo.swift in Sources */,
